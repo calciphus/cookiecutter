@@ -2,7 +2,6 @@
 
 Cookie-Cutter was created by Brad Hubbard (http://bradhubbard.net) in order to simplify the process of creating a new Rails application by completing many of the initial steps. Over time, this repo will be improved, functionality will be added to it, etc.
 
-
 == Included Functionality
 
 1. Heroku-friendly
