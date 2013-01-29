@@ -5,17 +5,17 @@ Cookie-Cutter was created by Brad Hubbard (http://bradhubbard.net) in order to s
 == Included Functionality
 
 	1. Heroku-friendly
-	Uses SQLite for local development, Postgres for Production
-	Should not break asset compile when deployed
+    Uses SQLite for local development, Postgres for Production
+    Should not break asset compile when deployed
 
 	2. User Authentication with Devise
-	Devise gem pre-configured for users
-	Make sure to modify the initial migration to simplify your life
+    Devise gem pre-configured for users
+    Make sure to modify the initial migration to simplify your life
 
 	3. Admin Interface with Active Admin
-	Basic admin interface for Devise users
-	Log in from <app_root>/admin
-	Default username/password is admin@example.com/password (failure to change this is shameful)
+    Basic admin interface for Devise users
+    Log in from <app_root>/admin
+    Default username/password is admin@example.com/password (failure to change this is shameful)
 
 	4. [Coming Soon] Basic layout via Bootstrap or something similar
 
