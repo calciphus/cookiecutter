@@ -14,6 +14,7 @@ Cookie-Cutter was created by Brad Hubbard (http://bradhubbard.net) in order to s
 
 	3. Admin Interface with Active Admin
     Basic admin interface for Devise users
+    Log in from <app_root>/admin
 	Default username/password is admin@example.com/password (failure to change this is shameful)
 
 	4. [Coming Soon] Basic layout via Bootstrap or something similar
