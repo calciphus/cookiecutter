@@ -1,0 +1,23 @@
+== Welcome to Calciphus's Cookie-Cutter
+
+Cookie-Cutter was created by Brad Hubbard (http://bradhubbard.net) in order to simplify the process of creating a new Rails application by completing many of the initial steps. Over time, this repo will be improved, functionality will be added to it, etc.
+
+
+== Included Functionality
+
+1. Heroku-friendly
+	* Uses SQLite for local development, Postgres for Production
+	* Should not break asset compile when deployed
+
+2. User Authentication with Devise
+	* Devise gem pre-configured for users
+	* Make sure to modify the initial migration to simplify your life
+
+3. Admin Interface with Active Admin
+	* Basic admin interface for Devise users
+
+4. [Coming Soon] Basic layout via Bootstrap or something similar
+
+5. [Coming Soon] OAuth2 for Google Apps Accounts
+
+6. [Coming Later] Mailtrap and Sendgrid
